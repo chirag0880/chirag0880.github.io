@@ -1,6 +1,6 @@
-# Chirag Patel — Apple × Antigravity Portfolio
+# Chirag Patel — 
 
-Clean, responsive portfolio using plain HTML, CSS and JavaScript.
+
 
 ## Features
 - Minimal light theme with blue/violet gradients, glass-style floating elements and subtle motion
